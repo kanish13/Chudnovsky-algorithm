@@ -5,4 +5,4 @@ Chudnovsky algorithm formula:
 
 ![popup_1](https://user-images.githubusercontent.com/111358462/224483875-14de6fa5-327a-4c9c-95d6-54cee7a799f8.png)
 
-Refernce: https://www.youtube.com/watch?v=LhlqCJjbEa0
+Reference: https://www.youtube.com/watch?v=LhlqCJjbEa0
